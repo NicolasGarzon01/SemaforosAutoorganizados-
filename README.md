@@ -35,7 +35,7 @@ La lógica de los semáforos se basa en las siguientes reglas, evaluadas en orde
 
 ---
 
-## 🚀 Instalación y Uso
+## Instalación y Uso
 
 Sigue estos pasos para ejecutar la simulación en tu máquina local.
 
