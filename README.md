@@ -1,10 +1,10 @@
-# Simulación de Semáforos Auto-organizados 🚦
+# Simulación de Semáforos Auto-organizados
 
 Este proyecto es una simulación de un sistema de semáforos inteligentes y auto-organizados, desarrollada en Python utilizando la librería Pygame. El objetivo es modelar un cruce de tráfico donde los semáforos se adaptan dinámicamente al flujo de vehículos, siguiendo un conjunto de reglas predefinidas para optimizar la eficiencia y la seguridad.
 
 ---
 
-## ✨ Características
+## Características
 
 * Simulación en tiempo real de una intersección en T.
 * Lógica de semáforos adaptativa basada en 6 reglas de auto-organización.
@@ -15,7 +15,7 @@ Este proyecto es una simulación de un sistema de semáforos inteligentes y auto
 
 ---
 
-## 規則 Las Reglas del Sistema
+## Las Reglas del Sistema
 
 La lógica de los semáforos se basa en las siguientes reglas, evaluadas en orden de prioridad:
 
@@ -28,7 +28,7 @@ La lógica de los semáforos se basa en las siguientes reglas, evaluadas en orde
 
 ---
 
-## 💻 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * **Python 3**
 * **Pygame** para la interfaz gráfica, el sonido y la gestión de eventos.
@@ -57,15 +57,13 @@ Sigue estos pasos para ejecutar la simulación en tu máquina local.
 
 4.  **Ejecuta la simulación:**
     ```bash
-    python tu_script.py
+    python simulacion_semaforo.py
     ```
-    *(Reemplaza `tu_script.py` con el nombre de tu archivo principal, ej. `simulacion_final.py`)*
-
-> **Nota:** Para los efectos de sonido, asegúrate de tener un archivo `cambio_luz.mp3` en la misma carpeta.
+> Para los efectos de sonido, asegúrate de tener un archivo `cambio_luz.mp3` en la misma carpeta.
 
 ---
 
-## ⌨️ Controles de Prueba
+## Controles de Prueba
 
 Puedes forzar ciertos escenarios durante la simulación para probar las reglas de bloqueo:
 
@@ -75,7 +73,7 @@ Puedes forzar ciertos escenarios durante la simulación para probar las reglas d
 
 ---
 
-## 👤 Autor
+## Autores
 
 * **Nicolás Garzón**
 * **Juan Felipe Alvarez**
